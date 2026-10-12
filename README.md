@@ -5,7 +5,7 @@
 > This is not a product.  
 > This is not an endorsement of any political position.  
 > This is not a ready-made toolkit for campaigns or advocacy.  
->  
+ 
 > This repository explores how some of AIC’s core ideas (Ethical-from-kernel, Third Path, non-capture, Human Meaning) might be relevant to NGOs that value independence and long-term integrity.  
 > It remains secondary to the development of Parallel TestNet.
 
