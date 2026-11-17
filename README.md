@@ -66,6 +66,21 @@ Because of these differences, this repository adopts a more restrictive and unde
 All concrete tools or patterns developed here must remain compatible with the Ethical Kernel direction and should eventually be testable on Parallel TestNet.  
 Until Phase 0 of Parallel TestNet is more mature, this repository stays at the level of documentation and careful design.
 
+## Why This Repository Matters After DPGA
+
+Following AIC's Digital Public Goods Alliance (DPGA) submission, this repository serves as an exploratory space for understanding how ethical coordination infrastructure might support NGOs operating across different institutional environments.
+
+The objective is not to create political influence.
+
+The objective is to explore governance patterns that:
+
+- preserve organizational independence,
+- reduce funding capture risks,
+- encourage transparent decision-making,
+- support long-term institutional resilience.
+
+This repository remains experimental.
+
 ---
 
 ## License

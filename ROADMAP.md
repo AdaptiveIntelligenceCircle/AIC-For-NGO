@@ -11,6 +11,17 @@
 - Consider whether any patterns can be expressed as test scenarios
 - Evaluate, with high skepticism, whether limited prototypes add integrity rather than risk
 
+## Road to Parallel TestNet
+
+Future governance assumptions proposed in this repository should eventually be tested through:
+
+- documented governance scenarios,
+- stewardship exercises,
+- contributor decision simulations,
+- institutional resilience experiments.
+
+Parallel TestNet remains the long-term environment for such validation.
+
 ## Guiding constraint
 
 Expansion of this repository is not a goal.  
